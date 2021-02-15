@@ -1,1 +1,1 @@
-# Themes
+# Themes for Stylish and Stylus
