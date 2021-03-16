@@ -2214,6 +2214,14 @@ a, .movie-title a {
     float: left;
     /* color: #fff; */
 }
+
+.postTabs_parts {
+    padding: 0 10px;
+    overflow-y: auto;
+    margin-top: 0;
+    margin-bottom: 8px !important;
+}
+
 .postTabs_parts li a {
     box-shadow: 0px 2px 1px rgba(0, 0, 0, 0.18);
     line-height: 14px;
