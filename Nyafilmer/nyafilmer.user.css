@@ -94,10 +94,11 @@ div#header-wrapper {
 
 .movie-reactions.moviepage {
     opacity: 1;
-    border-radius: 0 0 5px 5px;
+    border-radius: 0 0 0px 0px;
     padding-top: 4px !important;
-    width: 170px !important;
+    width: 166px !important;
 }
+
 .single-content.movie .poster img {
     width: 101% !important;
     border-radius: 3px;
