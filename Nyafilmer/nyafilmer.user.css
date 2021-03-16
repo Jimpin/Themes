@@ -89,7 +89,7 @@ div#header-wrapper {
     display: block;
     position: absolute;
     z-index: 1;
-    max-width: 101%!important;
+    max-width: 101% !important;
 }
 
 .movie-reactions.moviepage {
@@ -107,43 +107,43 @@ div#header-wrapper {
 
 #search-form {
     background: #000000;
-    text-shadow: none!important;
-    border: none!important;
-    border-radius: 3px!important;
+    text-shadow: none !important;
+    border: none !important;
+    border-radius: 3px !important;
     margin-left: 92px !important;
     position: initial;
     margin-right: 0px;
 }
 
 .epinav > ul li a:hover {
-    text-decoration: none!important;
+    text-decoration: none !important;
     padding: 12px 10px;
     display: inline-block;
     color: #2bc8da !important;
     font-weight: bold;
     font-size: 11px;
-    background-color: #1f3d41!important;
+    background-color: #1f3d41 !important;
     border: 2px solid #000000;
 }
 
 .postTabs_season.active:hover {
-    background: #0d423bcf!important;
-    color: #2bc8da!important;
-    border: 2px solid #000000!important;
-    box-shadow: none!important;
+    background: #0d423bcf !important;
+    color: #2bc8da !important;
+    border: 2px solid #000000 !important;
+    box-shadow: none !important;
 }
 
 .postTabs_season:hover {
-    box-shadow: none!important;
-    background: #1f3d41!important;
-    color: #2bc8da!important;
+    box-shadow: none !important;
+    background: #1f3d41 !important;
+    color: #2bc8da !important;
     border: 2px solid #000000;
 }
 
 .epinav > ul li {
     float: left !important;
     margin-left: 5px !important;
-    background: #151414!important;
+    background: #151414 !important;
     font-weight: 200;
     border: 2px solid #151414;
     margin-right: 4px !important;
@@ -205,7 +205,7 @@ div#header-wrapper {
     text-shadow: 0 1px 2px rgba(0,0,0,.4);
     outline: 0;
     font-size: 20px;
-    background: #1f3d41!important;
+    background: #1f3d41 !important;
     color: #eee;
     padding: 14px;
     border-radius: 5px;
@@ -233,9 +233,9 @@ div#nav {
 
 .content.wrapper {
     background: #151515;
-    border-radius: 3px!important;
+    border-radius: 3px !important;
     border: 2px solid #000000;
-    box-shadow: none!important;
+    box-shadow: none !important;
     border-top: 2px solid #000000 !important;
     border-bottom: 2px solid #000000;
     margin-top: 16px !important;
@@ -283,7 +283,7 @@ h1.title {
 }
 
 .movie-preview-content:hover a {
-    background: #181923!important;
+    background: #181923 !important;
     color: #2bc8da !important;
     border-color: #868686;
     text-decoration: none;
@@ -291,9 +291,9 @@ h1.title {
 
 .single-content.c-sidebar.list-categories {
     background: #171717;
-    border-radius: 3px!important;
+    border-radius: 3px !important;
     border: 2px solid #000000;
-    box-shadow: none!important;
+    box-shadow: none !important;
     margin-top: -12px !important;
     margin-bottom: 10px !important;
 }
@@ -566,7 +566,7 @@ element.style {
 }
 
 .res_item.col-4 {
-    width: 22%!important;
+    width: 22% !important;
 }
 
 .film-content .line {
@@ -577,7 +577,7 @@ element.style {
 }
     
 html {
-    margin-top: 0px!important;
+    margin-top: 0px !important;
 }
 
 div#header-wrapper {
@@ -593,9 +593,9 @@ div#header-wrapper {
 #content #search-box input {
     height: 50px;
     background: #1d1d1d;
-    color: #000!important;
+    color: #000 !important;
     font-size: 15px;
-    border-radius: 0!important;
+    border-radius: 0 !important;
 }
 #navbar {
     position: relative;
@@ -621,24 +621,24 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
 }
  
 .navigation.keremiya-pagenavi span:hover {
-    border: solid!important;
-    border-color: black!important;
-    border-width: 2px!important;
+    border: solid !important;
+    border-color: black !important;
+    border-width: 2px !important;
     background-color: #1f3d41;
 }
     
 .navigation.keremiya-pagenavi a:hover {
-    border: solid!important;
-    border-color: black!important;
-    border-width: 2px!important;
+    border: solid !important;
+    border-color: black !important;
+    border-width: 2px !important;
     background-color: #1f3d41;
 }
 
 .navigation.keremiya-pagenavi a, .navigation.keremiya-pagenavi span {
     margin-right: -1px;
     border: solid !important;
-    border-color: black!important;
-    border-width: 2px!important;
+    border-color: black !important;
+    border-width: 2px !important;
     background-color: #2d2d2d;
 }
 
@@ -669,8 +669,8 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
 }
     
 #nav > ul > li.current-menu-item > a:hover {
-    color: #2bc8da!important;
-    background: #1f3d41!important;
+    color: #2bc8da !important;
+    background: #1f3d41 !important;
 }
     
 .movie-preview-content {
@@ -679,19 +679,19 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
 }
 
 .navigation a, .keremiya-pagenavi span {
-    text-shadow: none!important;
-    box-shadow: none!important;
-    border: none!important;
-    border-radius: 50px!important;
+    text-shadow: none !important;
+    box-shadow: none !important;
+    border: none !important;
+    border-radius: 50px !important;
     background: #53535399;
     color: #111;
 }
     
 .navigation.keremiya-pagenavi span {
     margin-right: -1px;
-    border: solid!important;
-    border-color: black!important;
-    border-width: 2px!important;
+    border: solid !important;
+    border-color: black !important;
+    border-width: 2px !important;
     background-color: #151515;
 }
 
@@ -706,11 +706,11 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
 }
     
 .video-js .vjs-control-bar {
-    background-color: rgba(0, 0, 0, 0.5)!important;
-    color: #08E3FE!important;
+    background-color: rgba(0, 0, 0, 0.5) !important;
+    color: #08E3FE !important;
     font-size: 17px;
     column-fill: auto;
-    -webkit-text-fill-color: #08E3FE!important;
+    -webkit-text-fill-color: #08E3FE !important;
 }
     
 .video-js .vjs-progress-holder .vjs-load-progress, .video-js .vjs-progress-holder .vjs-load-progress div, .video-js .vjs-progress-holder .vjs-play-progress, .video-js .vjs-slider, .vjs-volume-level {
@@ -759,17 +759,17 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
 #search-box input {
     border: 2px solid #000000 !important;
     background: #292727;
-    box-shadow: none!important;
-    text-shadow: none!important;
-    border-radius: 3px!important;
-    -webkit-text-fill-color: #2bc8da!important;
+    box-shadow: none !important;
+    text-shadow: none !important;
+    border-radius: 3px !important;
+    -webkit-text-fill-color: #2bc8da !important;
 }
     
 #search-form {
     background: #000000;
-    text-shadow: none!important;
-    border: none!important;
-    border-radius: 3px!important;
+    text-shadow: none !important;
+    border: none !important;
+    border-radius: 3px !important;
     margin-left: 100px;
     position: initial;
     margin-right: 0px;
@@ -992,16 +992,16 @@ element.style {
 }
     
 .postTabs_parts li.postTabs_curr a {
-    background: #1f3d41!important;
-    color: #2bc8da!important;
+    background: #1f3d41 !important;
+    color: #2bc8da !important;
 }
 
 .epinav > h2 {
     float: left;
     margin: 16px 0 0 0;
     color: #2bc8da;
-    margin-left: 0px!important;
-    background: #0e0e0e!important;
+    margin-left: 0px !important;
+    background: #0e0e0e !important;
     padding: 12px;
     border: 2px solid #000000;
 }
@@ -1020,9 +1020,9 @@ element.style {
     
 .sidebar-content {
     background: whitesmoke;
-    box-shadow: none!important;
+    box-shadow: none !important;
     border: 1px solid #171717;
-    border-radius: 3px!important;
+    border-radius: 3px !important;
 }
 
 .film-content .line {
@@ -1039,24 +1039,24 @@ element.style {
 .arg {
     background: #111111;
     border-radius: 3px;
-    border: none!important;
-    box-shadow: none!important;
-    text-shadow: none!important;
+    border: none !important;
+    box-shadow: none !important;
+    text-shadow: none !important;
 }    
 
 .single-content.c-sidebar.list-categories {
     background: #171717;
-    border-radius: 3px!important;
+    border-radius: 3px !important;
     border: 1px solid #000000;
-    box-shadow: none!important;
+    box-shadow: none !important;
 }
 
 .button {
-    box-shadow: none!important;
-    text-shadow: none!important;
-    background: #131313!important;
+    box-shadow: none !important;
+    text-shadow: none !important;
+    background: #131313 !important;
     border: 2px solid #000000;
-    color: #2bc8da!important;
+    color: #2bc8da !important;
 }
     
 h1.title span, h2.title span, h4.title span {
@@ -1064,21 +1064,21 @@ h1.title span, h2.title span, h4.title span {
 }
 
 .postTabs_parts li a {
-    background: #131313!important;
-    color: #2bc8da!important;
+    background: #131313 !important;
+    color: #2bc8da !important;
     border: 2px solid #000000;
 }
     
 .postTabs_parts li a:hover {
-    background: #0e0e0e!important;
-    color: #2bc8da!important;
+    background: #0e0e0e !important;
+    color: #2bc8da !important;
 }
     
 .postTabs_season.active {
-    background: #0e0e0e!important;
-    color: #2bc8da!important;
-    border: none!important;
-    box-shadow: none!important;
+    background: #0e0e0e !important;
+    color: #2bc8da !important;
+    border: none !important;
+    box-shadow: none !important;
 }
 
 .postTabs_list h3 {
@@ -1095,8 +1095,8 @@ h1.title span, h2.title span, h4.title span {
 
 .tab-buttons {
     background: #151515;
-    box-shadow: none!important;
-    text-shadow: none!important;
+    box-shadow: none !important;
+    text-shadow: none !important;
     border: 2px;
     border-bottom: 2px solid #000000;
     border-top: 2px solid #000000;
@@ -1127,13 +1127,13 @@ h1.title span, h2.title span, h4.title span {
     padding: 10px 20px;
 }  
 .postTabs_season {
-    box-shadow: none!important;
-    background: transparent!important;
-    color: #2bc8da!important;
+    box-shadow: none !important;
+    background: transparent !important;
+    color: #2bc8da !important;
 }
 
 .postTabs_list {
-    background: #171717!important;
+    background: #171717 !important;
     border-top: 2px solid #000000;
     border-bottom: 2px solid #000000;
     border-left: 2px solid #000000;
@@ -1152,7 +1152,7 @@ h1.title span, h2.title span, h4.title span {
 }
  
 .epinav > ul li a {
-    text-decoration: none!important;
+    text-decoration: none !important;
     padding: 12px 10px;
     display: inline-block;
     color: #1b1b1b;
@@ -1184,7 +1184,7 @@ h1.title span, h2.title span, h4.title span {
 }
   
 .single-content.movie .rating-bottom span.imdb-rating {
-    color: #2bc8da!important;
+    color: #2bc8da !important;
 }
     
 .single-content.movie .rating {
@@ -1197,17 +1197,17 @@ h1.title span, h2.title span, h4.title span {
 }
 
 .postTabs_season {
-    box-shadow: none!important;
-    background: transparent!important;
-    color: #2bc8da!important;
+    box-shadow: none !important;
+    background: transparent !important;
+    color: #2bc8da !important;
     border: 2px solid #000000;
 }
     
 .postTabs_season.active {
-    background: #1f3d41!important;
-    color: #2bc8da!important;
-    border: 2px solid #000000!important;
-    box-shadow: none!important;
+    background: #1f3d41 !important;
+    color: #2bc8da !important;
+    border: 2px solid #000000 !important;
+    box-shadow: none !important;
 }
 
 .postTabs_list {
@@ -1218,11 +1218,12 @@ h1.title span, h2.title span, h4.title span {
 }
 
 .postTabs_list {
-    background: #171717!important;
+    background: #171717 !important;
     border-top: 2px solid #000000;
     border-bottom: 2px solid #000000;
     border-left: 2px solid #000000;
     border-right: 2px solid #000000;
+    margin-top: -8px !important;
 }
     
 .single-content.movie .excerpt {
@@ -1260,7 +1261,7 @@ h1.title span, h2.title span, h4.title span {
     text-align: center;
     text-decoration: none;
     position: relative;
-    color: #191919!important;
+    color: #191919 !important;
     font-family: 'Sans-serif', arial;
     /* font-weight: bold; */
     /* background: linear-gradient(270deg, #6559ae, #ff7159, #6559ae); */
@@ -1286,17 +1287,17 @@ h1.title span, h2.title span, h4.title span {
 }
     
 #nav > ul > li.current-menu-item > a {
-    color: #2bcbd5!important;
-    background: #151515!important;
+    color: #2bcbd5 !important;
+    background: #151515 !important;
     border-bottom: 2px solid #000000;
     border-right: 2px solid #000000;
 }
 
 .navigation.keremiya-pagenavi a, .navigation.keremiya-pagenavi span {
     margin-right: -1px;
-    border: solid!important;
-    border-color: black!important;
-    border-width: 2px!important;
+    border: solid !important;
+    border-color: black !important;
+    border-width: 2px !important;
 }
 
 #nav li a, #nav li a:link, #nav li a:visited {
@@ -1351,11 +1352,11 @@ h1.title span, h2.title span, h4.title span {
 }  
     
 .keremiya-pagenavi .expand, .keremiya-pagenavi .navileft, .keremiya-pagenavi .naviright a {
-    opacity: 1!important;
-    background: #151515!important;
+    opacity: 1 !important;
+    background: #151515 !important;
     color: #2bc8da;
     display: inline-block;
-    border-color: #000000 #000000 #000000 #000000!important;
+    border-color: #000000 #000000 #000000 #000000 !important;
     border-style: solid;
 }
 .clearfix {
@@ -1370,7 +1371,7 @@ h1.title span, h2.title span, h4.title span {
     /* text-align: center; */
     /* text-decoration: none; */
     /* position: relative; */
-    color: #151515!important;
+    color: #151515 !important;
     /* font-family: 'Sans-serif', arial; */
     /* font-weight: bold; */
     /* background: linear-gradient(270deg, #6559ae, #ff7159, #6559ae); */
@@ -1429,7 +1430,7 @@ h1, h2, h3, h4, h5 {
     
 .single-content.c-sidebar.list-categories {
     background: #171717;
-    border-radius: 3px!important;
+    border-radius: 3px !important;
     border: 2px solid #000000;
     box-shadow: none!important;
 }
@@ -1502,7 +1503,7 @@ a.logo-image {
 }
 body {
     line-height: 1;
-    background: #151515!important;
+    background: #151515 !important;
 }
 .movie-release.smlpg {
     position: absolute;
@@ -1823,11 +1824,11 @@ a, .movie-title a {
 }  
     
 .keremiya-pagenavi .expand, .keremiya-pagenavi .navileft, .keremiya-pagenavi .naviright a {
-    opacity: 1!important;
-    background: #151515!important;
+    opacity: 1 !important;
+    background: #151515 !important;
     color: #2bc8da;
     display: inline-block;
-    border-color: #000000 #000000 #000000 #000000!important;
+    border-color: #000000 #000000 #000000 #000000 !important;
     border-style: solid;
 }
 
@@ -1898,9 +1899,9 @@ h1, h2, h3, h4, h5 {
     
 .single-content.c-sidebar.list-categories {
     background: #171717;
-    border-radius: 3px!important;
+    border-radius: 3px !important;
     border: 2px solid #000000;
-    box-shadow: none!important;
+    box-shadow: none !important;
 }
 
 .c-sidebar.list-categories .tags.sort li, .c-sidebar.list-categories .tags.sort a {
@@ -1971,7 +1972,7 @@ a.logo-image {
 }
 body {
     line-height: 1;
-    background: #151515!important;
+    background: #151515 !important;
 }
 .movie-release.smlpg {
     position: absolute;
@@ -2246,10 +2247,17 @@ a, .movie-title a {
 .postTabs_season {
     float: left;
 }
+
 .button {
-    color: #2bc8da;
     box-sizing: border-box;
+	box-shadow: none !important;
+	text-shadow: none !important;
+    background: #131313 !important;
+    border: 2px solid #000000;
+    color: #2bc8da !important;
+    margin-top: 5px !important;
 }
+
 .button.arrow-bottom:after {
     content: "\e837";
     width: 0;
@@ -2325,7 +2333,7 @@ a, .movie-title a {
 }
 
 a, .movie-title a {
-    color: #2bc8da!important;
+    color: #2bc8da !important;
 }
 .movie-title a {
     font-size: 13px;
