@@ -2383,7 +2383,14 @@ a, a:visited {
     z-index: 3;
     border-top: 2px solid #000 !important;
     border-bottom: 2px #000 !important;
-    border-left: 2px #000 !important;
+}
+
+.movie-reactions.moviepage {
+    opacity: 1;
+    border-radius: 0 0 0px 0px;
+    padding-top: 4px !important;
+    width: 166px !important;
+    margin-left: -2px !important;
 }
 
 body, .movie-release {
