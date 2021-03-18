@@ -2382,6 +2382,7 @@ a, a:visited {
     background: #151515d6 !important;
     z-index: 3;
     border-top: 2px solid #000 !important;
+    border-bottom: 2px #000 !important;
 }
 
 body, .movie-release {
