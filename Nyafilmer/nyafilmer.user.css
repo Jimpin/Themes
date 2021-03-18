@@ -2383,6 +2383,7 @@ a, a:visited {
     z-index: 3;
     border-top: 2px solid #000 !important;
     border-bottom: 2px #000 !important;
+    border-left: 2px #000 !important;
 }
 
 body, .movie-release {
