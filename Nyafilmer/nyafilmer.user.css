@@ -97,6 +97,8 @@ div#header-wrapper {
     border-radius: 0 0 0px 0px;
     padding-top: 4px !important;
     width: 166px !important;
+    margin-left: -2px !important;
+    margin-bottom: -2px !important;
 }
 
 .single-content.movie .poster img {
@@ -816,6 +818,7 @@ input, textarea {
     border-right: 1px solid #0e0e0e;
     cursor: auto;
 }
+
 element.style {
     margin: 0;
     padding: 0;
@@ -1243,16 +1246,11 @@ element.style {
     
 .movie-preview-content > a {
     width: 100%;
-    /* display: inline-block; */
-    /* padding: 10px 0px; */
     text-align: center;
     text-decoration: none;
     position: relative;
     color: #191919 !important;
     font-family: 'Sans-serif', arial;
-    /* font-weight: bold; */
-    /* background: linear-gradient(270deg, #6559ae, #ff7159, #6559ae); */
-    /* background-size: 600% 600%; */
 }  
 
 #nav > ul > li {
@@ -1351,19 +1349,10 @@ element.style {
     margin-top: -35px;
 }
 .movie-preview-content > a {
-    /* content: attr(data-hover); */
-    /* width: 100%; */
-    /* display: inline-block; */
-    /* padding: 0px 0px; */
-    /* text-align: center; */
-    /* text-decoration: none; */
-    /* position: relative; */
     color: #151515 !important;
-    /* font-family: 'Sans-serif', arial; */
-    /* font-weight: bold; */
-    /* background: linear-gradient(270deg, #6559ae, #ff7159, #6559ae); */
     background-size: 0% 0%;
 }
+
 #header .header-content {
     height: 64px;
     background: #151515;
@@ -1381,6 +1370,7 @@ h1, h2, h3, h4, h5 {
     color: #2bc8da;
     font-family: "Noto Sans", arial, helvetica, sans-serif;
 }
+
 .single-content.movie .info-right .title h1 {
     float: left;
     font-size: 21px;
@@ -1411,6 +1401,7 @@ h1, h2, h3, h4, h5 {
     padding: 13px 13px 10px;
     border-radius: 2px;
 }
+
 .list-categories {
     margin-top: 40px;
 }
@@ -1451,13 +1442,6 @@ a.logo-image {
     background-size: 195px 52px;
     background-repeat: no-repeat;
     margin-top: 1px;
-}
-
-.movie-release.smlpg {
-    position: absolute;
-    right: 14px;
-    z-index: 3;
-    top: 40px;
 }
 
 .movie-release.smlpg {
@@ -1849,21 +1833,6 @@ a, .movie-title a {
     border-style: solid;
 }
 
-.movie-preview-content > a {
-    /* content: attr(data-hover); */
-    /* width: 100%; */
-    /* display: inline-block; */
-    /* padding: 0px 0px; */
-    /* text-align: center; */
-    /* text-decoration: none; */
-    /* position: relative; */
-    color: #151515!important;
-    /* font-family: 'Sans-serif', arial; */
-    /* font-weight: bold; */
-    /* background: linear-gradient(270deg, #6559ae, #ff7159, #6559ae); */
-    background-size: 0% 0%;
-}
-
 #header .header-content {
     height: 64px;
     background: #151515;
@@ -1997,13 +1966,6 @@ a.logo-image {
 body {
     line-height: 1;
     background: #151515 !important;
-}
-
-.movie-release.smlpg {
-    position: absolute;
-    right: 14px;
-    z-index: 3;
-    top: 40px;
 }
 
 body, .movie-release {
@@ -2217,15 +2179,10 @@ a, .movie-title a {
 }
 
 .single-content.c-sidebar {
-    /* width: 23%; */
     float: left;
     border-radius: 2px;
-    /* font-size: 11px; */
-    /* background: #3a3a3a; */
-    /* color: #ccc; */
     border-radius: 3px;
     line-height: 14px;
-    /* color: #ccc; */
     cursor: pointer;
     text-decoration: none;
 }
@@ -2246,7 +2203,6 @@ a, .movie-title a {
 .single-content.movie .excerpt {
     color: #2bc8da;
     line-height: 12px;
-    /* color: #DCDCDC; */
 }
 
 .c-sidebar.list-categories .tags a {
@@ -2259,7 +2215,6 @@ a, .movie-title a {
 
 .menu-toogle {
     float: left;
-    /* color: #fff; */
 }
 
 .postTabs_parts {
@@ -2278,9 +2233,6 @@ a, .movie-title a {
 .single-content.movie .categories a {
     font-size: 12px;
     color: #2bc8da;
-    /* color: #DCDCDC; */
-    /* color: #ccc; */
-    /* background: #222; */
     text-decoration: none;
     display: inline-block;
     line-height: 18px;
@@ -2309,7 +2261,6 @@ a, .movie-title a {
 .single-content.movie .rating-bottom {
     background: #1d1d1d;
     position: absolute;
-    /* color: #B2D244; */
     font-size: 12px;
     text-align: center;
 }
@@ -2440,15 +2391,7 @@ a, a:visited {
     background: #151515d6 !important;
     z-index: 3;
     border-top: 2px solid #000 !important;
-    border-bottom: 2px #000 !important;
-}
-
-.movie-reactions.moviepage {
-    opacity: 1;
-    border-radius: 0 0 0px 0px;
-    padding-top: 4px !important;
-    width: 166px !important;
-    margin-left: -2px !important;
+    border-bottom: 2px solid #000 !important;
 }
 
 body, .movie-release {
