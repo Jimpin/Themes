@@ -1,4 +1,4 @@
-Clean+centered theme for Aftonbladet.
+Clean+centered theme for Aftonbladet
 
 Installation
 
