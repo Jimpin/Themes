@@ -1,0 +1,260 @@
+/* ==UserStyle==
+@name           Aftonbladet
+@namespace      github.com/openstyles/stylus
+@version        1.0.0
+@description    -------
+@author         Jimpin
+@homepageURL  https://github.com/Jimpin/Themes/
+@updateURL    https://raw.githubusercontent.com/Jimpin/Themes/master/Aftonbladet/aftonbladet.user.css
+@license      GPL-3.0
+==/UserStyle== */
+
+@-moz-document url-prefix("http://www.aftonbladet"), url-prefix("https://www.aftonbladet"), domain("aftonbladet.se") {
+
+body {
+    color: #222;
+    font-family: Arial,Helvetica,Verdana,Geneva,sans-serif;
+    font-size: 16px;
+    line-height: 1.2;
+    text-align: inherit !important;
+}
+
+body::-webkit-scrollbar {
+width: 1em;
+}
+body::-webkit-scrollbar-track {
+-webkit-box-shadow: inset 0 0 3px rgba(0,0,0,0.3);
+}
+body::-webkit-scrollbar-thumb {
+background-color: #373737;
+}
+ 
+#innerabAdArea {
+    display: none !important;
+}
+
+.abAdWrapper {
+    display: none !important;
+}
+
+.Vg5tT ._34Z37 {
+    display: none !important;
+}
+
+._1K2NA {
+    display: none !important;
+}
+
+.GuHx7 {
+    display: none !important;
+}
+
+._1wkMO {
+    z-index: unset !important;
+    overflow: hidden !important;
+    display: none !important;
+}
+
+.QUzj6 {
+    height: 0px !important;
+    z-index: unset !important;
+    display: none !important;
+}
+
+._2CZrA {
+    z-index: unset !important;
+    display: none !important;
+}
+
+._2Fcg5 {
+    z-index: unset !important;
+    height: 0px !important;
+    display: none !important;
+}
+
+.QUzj6 ._1b8A5 {
+    display: none !important;
+}
+
+.sch-datacontroller__wrapper {
+    display: none !important;
+}
+
+.sch-datacontroller-default {
+    display: none !important;
+}
+
+.sch-datacontroller--permanent {
+    display: none !important;
+}
+
+.sch-datacontroller--permanent .sch-datacontroller__wrapper {
+    display: none !important;
+}
+
+.permanent-footer-data-controller {
+    display: none !important;
+}
+
+._1ruPO {
+    display: none !important;
+}
+
+._1yrXd {
+    padding: 8px;
+    margin-left: 28px !important;
+    font-size: 13px;
+    display: inline-block;
+}
+
+._3Xlol {
+    font-size: 18px;
+    margin-left: 134px !important;
+}
+
+.AxIVT {
+    display: none !important;
+}
+
+
+element {
+    text-decoration: none !important;
+    border: none !important;
+    border-style: none !important;
+    margin: unset !important;
+    display: none !important;
+}
+
+.vg-f2lp {
+    margin-bottom: -3px !important;
+}
+
+._1qnoE {
+    width: 105%;
+    margin-left: 60px !important;
+}
+
+.Srrbt {
+    text-transform: uppercase;
+    margin-left: 136px !important;
+}
+
+._2LTna {
+    background: #dd2a30;
+    border-color: rgba(0,0,0,.15);
+    margin-right: 0px;
+}
+
+._2FQCx {
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    margin-left: 87px !important;
+}
+
+.ab_header .ab_logo {
+    float: left;
+    margin-top: 12px;
+    margin-left: 210px !important;
+}
+
+._2zKE4 {
+    margin-left: 20px !important;
+}
+
+._2Eb74 {
+    border: none;
+    display: inline-block;
+    padding: 8px 10px;
+    margin-right: 54px !important;
+}
+
+._12yOG {
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: block;
+    height: 92% !important;
+    text-indent: 100%;
+    overflow: hidden;
+    white-space: nowrap;
+    margin-left: 128px !important;
+}
+
+._1gLh0 {
+    -webkit-box-flex: inherit;
+    -webkit-flex-grow: 0.45 !important;
+}
+
+.HLf1C {
+    border: none !important;
+}
+
+._3nSlg {
+    display: unset;
+    margin-left: 2px;
+}
+
+._1ykoV {
+    display: flex;
+    padding-right: 11px;
+    margin-right: -74px !important;
+}
+
+._2PN35:first-of-type {
+    padding-left: 17px !important;
+}
+
+._34pzj {
+    color: #fefefe;
+    max-width: 1294px;
+    overflow-x: hidden;
+    -ms-overflow-style: none;
+    white-space: nowrap;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    flex-direction: row;
+    height: 44px;
+    margin-left: 437px !important;
+}
+
+.l6vYd {
+    padding: 7px 7px 0;
+    position: relative;
+    margin-left: 420px !important;
+    max-width: 1294px;
+    box-sizing: border-box;
+    overflow: hidden;
+    height: 45px;
+}
+
+.gT6-O {
+    width: calc(100% - 332px) !important;
+}
+
+.gT6-O ._1lEgk {
+    padding: 0 32px 16px 3px !important;
+    width: 1025px !important;
+}
+
+.c-Cz1 + .c-Cz1 {
+    text-indent: initial !important;
+    margin-top: -16px;
+}
+
+.jwplayer .jw-media video {
+    margin-left: 0px !important;
+}
+
+._11S-G {
+  font-size:3.125rem;
+  margin-left: -5px !important;
+}
+
+._2ZkCB + ._2ZkCB {
+    text-indent: initial !important;
+}
+}
