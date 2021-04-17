@@ -18,16 +18,6 @@ body {
     line-height: 1.2;
     text-align: inherit !important;
 }
-
-body::-webkit-scrollbar {
-width: 1em;
-}
-body::-webkit-scrollbar-track {
--webkit-box-shadow: inset 0 0 3px rgba(0,0,0,0.3);
-}
-body::-webkit-scrollbar-thumb {
-background-color: #373737;
-}
  
 #innerabAdArea {
     display: none !important;
@@ -159,16 +149,16 @@ element {
     margin-top: 12px;
     margin-left: 210px !important;
 }
-
+    
 ._2zKE4 {
-    margin-left: 20px !important;
+    margin-left: 24px !important;
 }
 
 ._2Eb74 {
     border: none;
     display: inline-block;
-    padding: 8px 10px;
-    margin-right: 54px !important;
+    padding: 6px 10px;
+    margin-right: 52px !important;
 }
 
 ._12yOG {
@@ -254,6 +244,12 @@ element {
   margin-left: -5px !important;
 }
 
+._3PwLr {
+    margin-top: 6px !important;
+    margin-left: 162px !important;
+    margin-right: 412px !important;
+}
+    
 ._2ZkCB + ._2ZkCB {
     text-indent: initial !important;
 }
