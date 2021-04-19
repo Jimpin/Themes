@@ -4,13 +4,14 @@
 @version        1.0.0
 @description    Cleaned+centered theme for Aftonbladet
 @author         Jimpin
-@homepageURL  https://github.com/Jimpin/Themes/
-@updateURL    https://raw.githubusercontent.com/Jimpin/Themes/master/Aftonbladet/aftonbladet.user.css
-@license      GPL-3.0
+@homepageURL    https://github.com/Jimpin/Themes/
+@updateURL      https://raw.githubusercontent.com/Jimpin/Themes/master/Aftonbladet/aftonbladet.user.css
+@license        GPL-3.0
 ==/UserStyle== */
 
 @-moz-document url-prefix("http://www.aftonbladet"), url-prefix("https://www.aftonbladet"), domain("aftonbladet.se") {
 
+    
 body {
     color: #222;
     font-family: Arial,Helvetica,Verdana,Geneva,sans-serif;
@@ -89,6 +90,14 @@ body {
 ._1ruPO {
     display: none !important;
 }
+    
+.jss301 {
+	display: none !important;
+}
+    
+.css-1ntarj8 {
+    display: none !important;
+}
 
 ._1yrXd {
     padding: 8px;
@@ -105,7 +114,6 @@ body {
 .AxIVT {
     display: none !important;
 }
-
 
 element {
     text-decoration: none !important;
@@ -144,6 +152,11 @@ element {
     margin-left: 87px !important;
 }
 
+._3y_Fb {
+    padding-right: 0;
+    margin-left: 409px !important;
+}
+    
 .ab_header .ab_logo {
     float: left;
     margin-top: 12px;
@@ -252,5 +265,15 @@ element {
     
 ._2ZkCB + ._2ZkCB {
     text-indent: initial !important;
+}
+
+.abIsNichedContent ._2FQCx {
+    overflow: initial;
+    margin-left: 74px !important;
+    width: 1300px !important;
+}
+
+._33iA3 {
+    margin-left: -44px !important;
 }
 }
