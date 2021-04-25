@@ -20,7 +20,7 @@ body::-webkit-scrollbar-track {
 body::-webkit-scrollbar-thumb {
 background-color: #373737;
 }
- 
+    
 .c-sidebar.list-categories .tags a.active, .c-sidebar.list-categories .tags li.active a, .c-sidebar.list-categories .tags li.current-cat a {
     /* background: #101010; */
     /* box-shadow: inset 0px 2px 2px rgba(0, 0, 0, 0.05), 0px 2px 1px rgba(0, 0, 0, 0.4); */
@@ -201,7 +201,7 @@ div#header-wrapper {
     padding: 4px;
     border-bottom: 0px #000 !important;
 }
-
+    
 #content a.home-page:hover {
     width: 180px;
     text-shadow: 0 1px 2px rgba(0,0,0,.4);
@@ -221,16 +221,11 @@ div#header-wrapper {
     background: #0d423bcf!important;
     color: #2bc8da!important;
 }
-
+    
 .hide-overflow {
     overflow: hidden;
-    margin-left: -65px !important;
-    margin-right: 37px !important;
-}
-
-div#nav {
-    vertical-align: middle;
-    margin-right: 355px !important;
+    margin-left: -72px !important;
+	margin-right: 34px !important;
 }
 
 .content.wrapper {
@@ -270,6 +265,7 @@ h1.title {
     box-shadow: inset 0px 2px 2px rgba(0, 0, 0, 0.05), 0px 2px 1px rgba(0, 0, 0, 0.4);
     color: #2bc8da !important;
 }
+
 .c-sidebar.list-categories .tags a {
     width: auto;
     box-sizing: border-box;
@@ -278,6 +274,7 @@ h1.title {
     margin: 0 0 10px;
     color: #2bc8da !important;
 }
+
 .c-sidebar.list-categories .tags a:hover {
     width: auto;
     box-sizing: border-box;
@@ -305,9 +302,10 @@ h1.title {
 
 #content h1 {
     font-size: 24px !important;
-    max-width: 600px;
     text-align: left;
+    margin-left: 286px;
 }
+    
 #navbar.dark-border {
     border: none!important;
     box-shadow: none!important;
@@ -352,7 +350,7 @@ h1.title {
 
 div#nav {
     vertical-align: middle;
-    margin-right: 160px !important;
+    margin-right: 200px !important;
 }
 
 #nav ul {
@@ -767,11 +765,13 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
     position: initial;
     margin-right: 0px;
 }
+
 .single-content.movie .info-left {
     float: left;
     width: 16%;
     margin-bottom: 30px !important;
-}    
+} 
+
 .scroll::-webkit-scrollbar {
     width: 16px;
     height: 16px;
