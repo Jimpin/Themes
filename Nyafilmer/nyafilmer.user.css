@@ -318,23 +318,48 @@ h1.title {
     margin-top: -12px !important;
     margin-bottom: 10px !important;
 }
-    
-.single-content.movie .categories a {
-    margin-top: 12px !important;
-}
-    
+ 
 #content h1 {
     font-size: 22px !important;
     max-width: 442px !important;
     text-align: left;
     margin: 8px auto !important;
 }
-    
+  
 .single-content.movie .categories {
     display: block;
     margin-top: 50px !important;
+    text-align-last: auto !important;
 }
     
+.single-content.movie .categories a {
+    font-size: 12px;
+    color: #2bc8da !important;
+    background: #151515 !important;
+    border: 2px solid #000 !important;
+    text-decoration: none;
+    display: inline-block;
+    line-height: 18px;
+    max-width: 100px;
+    height: 18px;
+    margin-left: -1px !important;
+    margin-right: 1px !important;
+    margin-top: -4px !important;
+}
+
+.single-content.movie .release {
+    float: left;
+    color: #2bc8da;
+    font-size: 18px !important;
+    margin-top: -2px !important;
+    margin-right: 6px !important;
+    margin-left: 0px !important;
+}
+    
+.single-content.movie .info-right .title a {
+    font-size: 20px !important;
+}
+
 #navbar.dark-border {
     border: none!important;
     box-shadow: none!important;
@@ -468,25 +493,6 @@ div#header-wrapper {
     line-height: 16px;
 }
 
-.single-content.movie .categories a {
-    font-size: 12px;
-    margin-top: 4px !important;
-    padding: 0px 8px;
-    color: #2bc8da;
-    background: #151515 !important;
-    text-decoration: none;
-    display: inline-block;
-    line-height: 18px;
-    max-width: 100px;
-    height: 18px;
-    overflow: hidden;
-    white-space: nowrap;
-    text-overflow: ellipsis;
-    margin-left: 10px !important;
-    margin-right: -10px !important;
-    border: 2px solid #000;
-}
-
 .single-content.movie .info-right .title h1 {
     float: left;
     font-size: 20px;
@@ -497,15 +503,6 @@ div#header-wrapper {
     overflow: hidden;
     white-space: nowrap;
     text-overflow: ellipsis;
-}
-
-.single-content.movie .release {
-    float: left;
-    color: #2bc8da;
-    font-size: 18px !important;
-    margin-top: 0px !important;
-    margin-right: 6px !important;
-    margin-left: 0px !important;
 }
 
 #nav>ul>li.current-menu-item>a, #nav>ul>li.current-menu-parent>a {
