@@ -21,6 +21,65 @@ body::-webkit-scrollbar-thumb {
 background-color: #373737;
 }
 
+a.logo {
+    display: inline-block;
+    text-decoration: none;
+    user-select: none;
+    white-space: nowrap;
+    margin-right: 350px !important;
+}
+
+g.logo-icon {
+    background: url(/wp-content/themes/keremiya1/images/play.svg);
+    background-repeat: no-repeat;
+    width: 18px;
+    height: 21px;
+    display: inline-block;
+    margin-left: -11px !important;
+}
+    
+.header-left {
+    width: 75% !important;
+    height: 100%;
+    float: left;
+}
+    
+.header-right {
+    width: 32% !important;
+    height: 100%;
+    float: right;
+    margin-left: -77px !important;
+}
+    
+
+.single-content.movie .info-right {
+    display: inline-block;
+    width: 80%;
+    vertical-align: top;
+    padding-left: 10px;
+    box-sizing: border-box;
+    margin-top: -13px !important;
+}
+    
+.single-content.movie {
+    margin-top: -4px !important;
+}
+    
+.single-content.movie .rating {
+    background: #1d1d1d;
+    color: #2bc8da;
+    border-bottom: 2px solid #000000;
+    border-top: 2px solid #000000;
+    border-left: 2px solid #000000;
+    border-right: 2px solid #000000;
+    margin-top: 6px !important;
+}
+    
+    
+    
+    
+    
+    
 .c-sidebar.list-categories .tags a.active, .c-sidebar.list-categories .tags li.active a, .c-sidebar.list-categories .tags li.current-cat a {
     /* background: #101010; */
     /* box-shadow: inset 0px 2px 2px rgba(0, 0, 0, 0.05), 0px 2px 1px rgba(0, 0, 0, 0.4); */
@@ -243,8 +302,8 @@ div#header-wrapper {
     
 .hide-overflow {
     overflow: hidden;
-    margin-left: -72px !important;
-	margin-right: 34px !important;
+    margin-left: -25px !important;
+    margin-right: 34px !important;
 }
 
 .content.wrapper {
@@ -1128,10 +1187,11 @@ h1.title span, h2.title span, h4.title span {
 .single-content.video {
     margin-top: -20px;
 }
-    
+
 .single-content.movie {
-    margin-top: 0px !important;
-}  
+    margin-top: -2px !important;
+}
+    
 .single-content {
     float: left;
     position: relative;
@@ -1185,8 +1245,8 @@ h1.title span, h2.title span, h4.title span {
     border-top: 2px solid #000000;
     border-left: 2px solid #000000;
     border-right: 2px solid #000000;
-    margin-top: -6px !important;
-    margin-right: -42px !important;
+    margin-top: 6px !important;
+    margin-right: -43px !important;
 }
     
 element.style {
@@ -1218,15 +1278,6 @@ element.style {
   
 .single-content.movie .rating-bottom span.imdb-rating {
     color: #2bc8da !important;
-}
-    
-.single-content.movie .rating {
-    background: #1d1d1d;
-    color: #2bc8da;
-    border-bottom: 2px solid #000000;
-    border-top: 2px solid #000000;
-    border-left: 2px solid #000000;
-    border-right: 2px solid #000000;
 }
 
 .postTabs_season {
@@ -1697,10 +1748,6 @@ a, .movie-title a {
     margin-bottom: 110px !important;
     width: 100%;
     margin-top: -40px !important;
-}
-
-.single-content.movie {
-    margin-top: 0px !important;
 }
 
 .single-content.movie .excerpt {
@@ -2209,10 +2256,6 @@ a, .movie-title a {
     margin-bottom: 110px !important;
     width: 100%;
     margin-top: -40px !important;
-}
-
-.single-content.movie {
-    margin-top: 0px !important;
 }
 
 .c-sidebar.list-categories .tags a {
