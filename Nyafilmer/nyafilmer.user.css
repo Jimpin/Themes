@@ -37,20 +37,6 @@ g.logo-icon {
     display: inline-block;
     margin-left: -11px !important;
 }
-    
-.header-left {
-    width: 75% !important;
-    height: 100%;
-    float: left;
-}
-    
-.header-right {
-    width: 32% !important;
-    height: 100%;
-    float: right;
-    margin-left: -77px !important;
-}
-    
 
 .single-content.movie .info-right {
     display: inline-block;
@@ -73,12 +59,7 @@ g.logo-icon {
     border-left: 2px solid #000000;
     border-right: 2px solid #000000;
     margin-top: 6px !important;
-}
-    
-    
-    
-    
-    
+} 
     
 .c-sidebar.list-categories .tags a.active, .c-sidebar.list-categories .tags li.active a, .c-sidebar.list-categories .tags li.current-cat a {
     /* background: #101010; */
@@ -299,11 +280,31 @@ div#header-wrapper {
     background: #0d423bcf!important;
     color: #2bc8da!important;
 }
-    
+
 .hide-overflow {
     overflow: hidden;
-    margin-left: -25px !important;
-    margin-right: 34px !important;
+    margin-left: -80px !important;
+    margin-right: 0px !important;
+}
+
+#header .header-content, #header .logo-content, #header .header-search, #header .user-area, #header .header-social-icons {
+    height: 64px;
+    margin-left: 60px;
+}
+    
+g.logo-icon {
+    background: url(/wp-content/themes/keremiya1/images/play.svg);
+    background-repeat: no-repeat;
+    width: 18px;
+    height: 21px;
+    display: inline-block;
+    margin-left: -68px !important;
+}
+    
+.header-user {
+    max-width: 65%;
+    float: right;
+    margin-right: 60px !important;
 }
 
 .content.wrapper {
@@ -377,12 +378,14 @@ h1.title {
     margin-top: -12px !important;
     margin-bottom: 10px !important;
 }
- 
+    
 #content h1 {
     font-size: 22px !important;
     max-width: 442px !important;
     text-align: left;
-    margin: 8px auto !important;
+    margin-bottom: 20px !important;
+    margin-top: 2px !important;
+    margin-left: 320px !important;
 }
   
 .single-content.movie .categories {
@@ -463,9 +466,9 @@ h1.title {
 
 div#nav {
     vertical-align: middle;
-    margin-right: 200px !important;
+    margin-right: 80px !important;
 }
-
+    
 #nav ul {
     float: left;
     list-style: none;
